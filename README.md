@@ -32,10 +32,14 @@
   <a href="mailto:ankitkr3679@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel: +91 9315268139">
+    <img src="https://img.shields.io/badge/Call-+91 9876543210-blue?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
   <a href="https://drive.google.com/file/d/1BnrV45WOox-z3yZR-KQMj_gP1CbmRl0u/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
+
 
 ---
 
