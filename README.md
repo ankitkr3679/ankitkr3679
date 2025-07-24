@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **BCA** student passionate about frontend technologies.
+- 🎓 **BCA** student passionate about frontend technologies.
 - 🛠️ Focused on building fast, accessible, and scalable web applications.
 - 💡 Driven by clean code, minimal UI, and modern user experiences.
 
@@ -17,7 +17,7 @@
 
 ## 💡 What I Do
 
-- 🌱 Advancing full-stack skills with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+- 🌱 Advancing learning skills with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 - 🧩 Developing responsive multi-page frontend apps using modern JS frameworks.
 - 🎨 Prioritizing maintainable code and great UI/UX across devices.
 
