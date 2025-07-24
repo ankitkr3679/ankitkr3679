@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Frontend De
 ---
 
 ### 💬 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📫 Email: your.email@example.com  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ankit-kumar-51b288300/
+- 📫 Email: ankitkr3679@gmail.com  
+- 🌐 Resume: https://drive.google.com/file/d/1BnrV45WOox-z3yZR-KQMj_gP1CbmRl0u/view?usp=drive_link
 
 ---
 
