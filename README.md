@@ -1,4 +1,7 @@
-
+<!-- 👋 Hero Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/images/magic.gif" alt="hero banner" width="100%" />
+</p>
 
 <h1 align="center">👋 Hello, I'm Ankit Kumar</h1>
 
@@ -10,6 +13,11 @@
 ---
 
 ## 🚀 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Icon" width="80" />
+</p>
+
 - 🎓 Final-year **BCA** student passionate about frontend technologies.
 - 🛠️ Focused on building fast, accessible, and scalable web applications.
 - 💡 Driven by clean code, minimal UI, and modern user experiences.
@@ -17,6 +25,11 @@
 ---
 
 ## 💡 What I Do
+
+<p align="center">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-2067443-1748791.png" alt="what i do" width="300"/>
+</p>
+
 - 🌱 Advancing full-stack skills with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 - 🧩 Developing responsive multi-page frontend apps using modern JS frameworks.
 - 🎨 Prioritizing maintainable code and great UI/UX across devices.
@@ -60,7 +73,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Replit](https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=white)
-
 
 ---
 
