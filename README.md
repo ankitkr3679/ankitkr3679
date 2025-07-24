@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&center=true&vCenter=true&width=450&lines=Hi+I'm+Ankit+Kumar;Frontend+Developer;MERN+Stack+Learner;UI/UX+Focused+Coder" alt="Typing SVG" />
-</p>
+
 
 <h1 align="center">👋 Hello, I'm Ankit Kumar</h1>
 
