@@ -80,11 +80,32 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+name: Generate Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankitkr3679/ankitkr3679/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ankitkr3679
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ---
 
@@ -93,19 +114,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkr3679&theme=tokyo-night&area=true" alt="GitHub activity graph" />
 </p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitkr3679&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-> 💬 *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**
-
 ---
 
 <p align="center">
