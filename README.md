@@ -1,36 +1,41 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&center=true&vCenter=true&width=450&lines=Hi+I'm+Ankit+Kumar;Frontend+Developer;MERN+Stack+Learner;UI/UX+Focused+Coder" alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Hello, I'm Ankit Kumar</h1>
 
 <p align="center">
-  🚀 Frontend Developer | Passionate about creating elegant, responsive web experiences.<br/>
-  🎯 Focused on building modern UI with <strong>React.js</strong>, <strong>Tailwind CSS</strong>, <strong>Redux Toolkit</strong> & <strong>Bootstrap</strong>.
+  🚀 Frontend Developer | Crafting elegant, responsive & user-first web interfaces.<br/>
+  🎯 Tech Focus: <strong>React.js</strong>, <strong>Tailwind CSS</strong>, <strong>Redux Toolkit</strong>, <strong>Bootstrap</strong>.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year **BCA** student with practical experience in modern frontend technologies.
-- 🛠️ Dedicated to building accessible, high-performance web apps with a strong UI/UX focus.
-- 🧠 Always exploring new tools and frameworks to enhance productivity and creativity.
+- 🎓 Final-year **BCA** student passionate about frontend technologies.
+- 🛠️ Focused on building fast, accessible, and scalable web applications.
+- 💡 Driven by clean code, minimal UI, and modern user experiences.
 
 ---
 
 ## 💡 What I Do
-- 🌱 Currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js) for full-stack development.
-- 🧩 Developing responsive multi-page applications using modern frontend stacks.
-- 🎨 Enhancing UI/UX with clean, maintainable, and scalable code architecture.
+- 🌱 Advancing full-stack skills with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+- 🧩 Developing responsive multi-page frontend apps using modern JS frameworks.
+- 🎨 Prioritizing maintainable code and great UI/UX across devices.
 
 ---
 
 ## 📫 Connect With Me
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ankit-kumar-51b288300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:ankitkr3679@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:ankitkr3679@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1BnrV45WOox-z3yZR-KQMj_gP1CbmRl0u/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
 
@@ -49,10 +54,10 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-### ✨ Motion & Animation
+### ✨ Animation & UI
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF0178?style=for-the-badge&logo=framer)
 
-### 🧰 Tools & Platforms
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
@@ -61,20 +66,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkr3679&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitkr3679&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkr3679&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitkr3679&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr3679&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr3679&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
 </div>
 
 ---
 
-> 🧠 “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+> 💬 *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**
 
 ---
 
 <p align="center">
-  🛠️ Open to collaboration | ✉️ Let's build something amazing together!
+  ⚡ Let's connect, collaborate, and create something great together!
 </p>
