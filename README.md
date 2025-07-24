@@ -12,9 +12,10 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Frontend De
 ---
 
 ### 💡 What I Do
-- 🌱 Learning advanced concepts in **React**, **Next.js**, and **TypeScript**.
-- 🔨 Developing and contributing to multi-page frontend applications.
-- 📈 Improving UI/UX with clean, scalable, and maintainable code.
+- 🌱 Deepening my skills in **MERN Stack** (MongoDB, Express.js, React, Node.js).
+- 🔨 Building and contributing to responsive, multi-page frontend applications.
+- 📈 Enhancing user experience with clean, scalable, and maintainable UI code.
+
 
 ---
 
